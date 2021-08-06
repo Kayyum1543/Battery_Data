@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "921384956973",
+    "project_id": "battery-2e2fe",
+    "storage_bucket": "battery-2e2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921384956973:android:17554d55ab3e85de11b4a4",
+        "android_client_info": {
+          "package_name": "com.example.battery_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921384956973-i37q8r7nmnhcavbvu0ase2t2feaj6mnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASj8KVIm67ofvhniSKSygw-aWM0KGY-h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921384956973-i37q8r7nmnhcavbvu0ase2t2feaj6mnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921384956973:android:2700d8a81fe93e1d11b4a4",
+        "android_client_info": {
+          "package_name": "com.example.battery_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921384956973-iuk42s3a1e9hc0e4jk3anq5t5e7rvurg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.battery_info",
+            "certificate_hash": "f1995ca1eea4281b4f4caab828bd3a29b13bc81e"
+          }
+        },
+        {
+          "client_id": "921384956973-i37q8r7nmnhcavbvu0ase2t2feaj6mnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASj8KVIm67ofvhniSKSygw-aWM0KGY-h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921384956973-i37q8r7nmnhcavbvu0ase2t2feaj6mnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
